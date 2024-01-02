@@ -7,4 +7,4 @@ Node.js, S3 bucket, React (TailwindCSS), HuggingFace library
 # Current TODOS
 Design the following:
 Home Page
-[land_page.png](Landing Page)
+[Landing Page](land_page.png)
