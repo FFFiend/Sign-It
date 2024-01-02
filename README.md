@@ -1,8 +1,10 @@
 # Sign-It
-Fullstack + ML app for learning ASL
+Fullstack + ML app for learning ASL.\
+This project is currently a Work in Progress (WIP), excuse my poor file structuring :D
 
-
+# Tech Stack
 Node.js, S3 bucket, React (TailwindCSS), HuggingFace library
+
 
 # Current TODOS
 Design the following:\
