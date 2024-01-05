@@ -2,8 +2,12 @@
 Fullstack + ML app for learning ASL.\
 This project is currently a Work in Progress (WIP), excuse my poor file structuring :D
 
+# Update
+Thinking of replacing S3 with Firebase
+
 # Tech Stack
 Node.js, S3 bucket, React (TailwindCSS), HuggingFace library
+
 
 
 # Current TODOS
