@@ -6,12 +6,11 @@ This project is currently a Work in Progress (WIP), excuse my poor file structur
 Thinking of replacing S3 with Firebase
 
 # Tech Stack
-Node.js, S3 bucket, React (TailwindCSS), HuggingFace library
+Node.js, S3 bucket / Firebase, React (TailwindCSS), HuggingFace library
 
 
 
 # Current TODOS
-Set up S3 bucket
 How it Works Page\
 Figure out:\
 Displaying sweet countdown animations\
