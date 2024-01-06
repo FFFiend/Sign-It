@@ -15,6 +15,4 @@ How it Works Page\
 Figure out:\
 Displaying sweet countdown animations\
 React video input\
-
-Set up Backend
 ![Landing Page](land_page.png)
