@@ -11,11 +11,8 @@ Node.js, S3 bucket, React (TailwindCSS), HuggingFace library
 
 
 # Current TODOS
-Frontend React components:
-Login Page\
-Sign Up Page\
+Set up S3 bucket
 How it Works Page\
-Main Play Screen Page\
 Figure out:\
 Displaying sweet countdown animations\
 React video input\
